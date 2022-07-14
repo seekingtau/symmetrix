@@ -14,5 +14,5 @@ Quantify symmetry! Symmetrix is a script (and soon-to-be application) inspired b
 2. Then, the values are divided either horizontally (cut the list in half) or vertically (iterates through list to find half, then seperates the list along the halfway point).
 3. Third, the second half is rewritten from back to front, to the effect of "mirroring" the half, so it can be compared directly to the first half.
 4. The program then compares each pixel in a given position in both and determines if the two pixels are the same; whether or not they are is counted.
-5. A formula is applyed to determine symmetry: 
+5. A formula is applied to determine symmetry: 
 <html>1 - (p<sub>dif</sub>/p<sub>total</sub>)</html>
