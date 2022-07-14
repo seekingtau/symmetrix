@@ -1,5 +1,5 @@
 # Symmetrix
-![symmetrix](https://user-images.githubusercontent.com/61752416/179066404-93405bc2-3963-45d3-8fa7-c81c86d01b02.png)
+![symmetrix(1)](https://user-images.githubusercontent.com/61752416/179073468-1ff6e40a-3802-4577-b1e5-887f183274f7.png)
 
 Quantify symmetry! Symmetrix is a script (and soon-to-be application) inspired by a friend of mine, @e007k, to quantify symmetry.
 
